@@ -20,4 +20,5 @@ This project is a simple yet effective way to enhance French language learning t
 2.Run the game.
   ```bash
   python main.py
+
 3.Enjoy learning French!
